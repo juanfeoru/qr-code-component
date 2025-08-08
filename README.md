@@ -53,6 +53,6 @@ I want to continue improving my understanding of responsive design techniques, e
 - Frontend Mentor - [@juanfeoru](https://www.frontendmentor.io/profile/juanfeoru)
 - GitHub - [@juanfeoru](https://github.com/juanfeoru)
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 Thanks to the Frontend Mentor community for providing such helpful challenges that simulate real development tasks.
