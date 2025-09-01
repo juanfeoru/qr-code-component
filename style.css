@@ -48,6 +48,8 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  margin: 1rem;
+  overflow-y: hidden;
 }
 
 html {
@@ -56,22 +58,19 @@ html {
 
 .card {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  background-color: var(--white);
-  max-width: 21rem;
-  border-radius: 1.3rem;
+  border-radius: 1.5rem;
   padding: 1rem 1rem 2.6rem 1rem;
-  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+  align-items: center;
+  background-color: var(--white);
+  max-width: 22rem;
 }
 
 .card__img {
-  border-radius: 0.6rem;
+  border-radius: 0.7rem;
   margin-bottom: 1.6rem;
-}
-
-.card-text {
-  text-align: center;
-  padding: 0 1rem;
 }
 
 .card-text__title {
@@ -82,15 +81,14 @@ html {
   margin-bottom: 1rem;
 }
 
+.card-text {
+  text-align: center;
+  padding: 0 1rem;
+}
+
 .card-text__p {
   font-size: 1rem;
   line-height: 140%;
   letter-spacing: 0.2px;
   color: var(--slate-500);
-}
-
-@media (min-width: 320px) {
-  body {
-    margin: 0 0.7rem;
-  }
 }
