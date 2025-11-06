@@ -38,7 +38,7 @@ html, body {
   overflow-y: hidden;
 }
 
-.card {
+.container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -50,7 +50,7 @@ html, body {
   max-width: 22rem;
 }
 
-.card__img {
+.container__img {
   border-radius: 0.7rem;
   margin-bottom: 1.6rem;
   display: block;
@@ -59,19 +59,19 @@ html, body {
 }
 
 
-.card__text {
+.container__text {
   text-align: center;
   padding: 0 1rem;
 }
 
-.card__title {
+.container__title {
   font-size: 1.4rem;
   line-height: 120%;
   font-weight: 700;
   color: var(--slate-900);
   margin-bottom: 1rem;
 }
-.card__description {
+.container__description {
   font-size: 1rem;
   line-height: 140%;
   letter-spacing: 0.2px;
