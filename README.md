@@ -14,13 +14,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./desktop-design.jpg)
+![](./desktop-design.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/juanfeoru/qr-code-component#)
-- Live Site URL: [Add live site URL here](https://juanfeoru.github.io/qr-code-component/)
+- Solution URL: [Solution URL](https://github.com/juanfeoru/qr-code-component#)
+- Live Site URL: [Site URL](https://juanfeoru.github.io/qr-code-component/)
 
 ## My process
 
