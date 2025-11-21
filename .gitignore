@@ -2,8 +2,9 @@
 *.sketch
 *.fig
 
-
 *.xd
 
 .DS_Store
 .prettierignore
+
+tailwind.config.js
